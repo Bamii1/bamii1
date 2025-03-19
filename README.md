@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 I am currently working as a junior data engineer<br><br>🌱 I am passionate about data and finance <br><br>👯 I’m looking to collaborate on new exciting projects, particularly in finance<br><br>😁I have a master's in data science which I graduated with a distinction <br><br>⌛ I’m currently learning Kdb+, Azure and AWS
+😎 I am currently working as a data engineer<br><br>🌱 I am passionate about data and data engineering <br><br>👯 I’m looking to collaborate on new exciting projects, particularly in finance, climate and public health <br><br>😁I have a master's in data science which I graduated with a distinction <br><br>⌛ I’m currently learning Kdb+, Azure, AWS, GCP
 
 
 ![e84edb279472c7ab49e97ec276d4ffda](https://github.com/Bamii1/bamii1/assets/78361463/4ad4d428-e8df-4829-af6b-639ec0bc75f0)
